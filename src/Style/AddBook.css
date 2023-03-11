@@ -1,0 +1,31 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.addBook
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 64px;
+    align-items: center;
+}
+.form
+{
+    text-align: left;
+    padding: 30px 30px;
+}
+.form input
+{
+    border: none;
+    
+    padding: 8px 8px;
+    margin: 15px 15px;
+    background-color: white;color:black;
+}
+.form label
+{
+   margin: 15px 15px;
+   color: white;
+}

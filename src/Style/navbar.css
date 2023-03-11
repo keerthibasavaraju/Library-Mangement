@@ -1,0 +1,46 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.NavBar
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 64px;
+    align-items: center;
+    background-color: rgb(51,53,69);
+    /* position: fixed;
+    top: 0;
+    width: 100%; */
+}
+.links li
+{
+  display: inline-block;
+  margin: 0px 15px;
+  
+}
+.links a
+{
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  padding-bottom: 5px;
+  font-weight: bolder;
+  
+}
+.links a:hover
+{
+   /* text-decoration: underline; */
+   border-bottom: 2px solid;
+   color:rgb(0, 255, 221);
+   
+}
+
+
+.log img{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}

@@ -1,0 +1,45 @@
+.footer
+{
+    background-color: rgb(51,53,69);
+    text-align: center;
+    margin-top: 50px;
+    padding: 10px 0px;
+}
+/*sample react snippets and auto rename tag and auto close tag */
+.flogo
+{
+   padding-top: 20px;
+}
+.social img
+{
+    height: 35.7px;
+    width: 35.7px;
+   margin: 10px 5px;
+    
+    
+}
+.link ul{
+    margin: 0;
+    padding:0;
+}
+.link li
+{
+    display: inline-block ;
+    margin: 0px 10px;
+    
+
+    
+}
+.link a{
+    text-decoration: none;
+    color: rgb(0, 255, 242);
+    font-weight: bold;
+    font-size: 18px;
+}
+.cp p
+{
+    font-weight: lighter;
+    font-size: 18px;   
+    margin: 0;
+    color: aliceblue;
+}

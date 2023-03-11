@@ -1,0 +1,67 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main
+{
+   background-image: url('/src/images/loginpic.jpg');
+   background-size: cover;
+   background-position:fixed ;
+   background-repeat: no-repeat;
+   padding: 150px 64px;
+}
+.main1
+{
+    
+    text-align: left;
+    background-color: rgba(255, 255, 255, 0.874);
+    height: 200px;
+    width: 800px;
+    padding: 50px 50px;
+    line-height: 35px;
+    
+}
+.middle
+{
+    margin: 50px 0px;
+    background-image: url(/src/images/coffe.jpg);
+    background-size: cover;
+   background-position:fixed ;
+   background-repeat: no-repeat;
+   padding: 150px 64px;
+}
+.mid1
+{
+    background-color: rgba(255, 255, 255, 0.871);
+    height: 250px;
+    width: 800px;
+    padding: 50px 50px;
+    line-height: 35px;
+    
+}
+.cal
+{
+    background-image: url(/src/images/blue.jpg);
+    background-size: cover;
+   background-position:fixed ;
+   background-repeat: no-repeat;
+   padding: 150px 64px
+}
+.box
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 20px;
+    margin: 20px 64px;
+}
+.b1
+{
+    height: 150px;
+    background-color: white;
+    padding: 30px 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px;
+}
